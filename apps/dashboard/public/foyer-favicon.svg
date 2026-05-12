@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Foyer">
+  <defs>
+    <linearGradient id="foyerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#foyerGrad)"/>
+  <path d="M 22 16 L 22 56 L 42 56 L 42 16 Q 42 10 36 10 L 28 10 Q 22 10 22 16 Z" fill="#FFFFFF"/>
+  <circle cx="38" cy="36" r="2" fill="url(#foyerGrad)"/>
+</svg>
